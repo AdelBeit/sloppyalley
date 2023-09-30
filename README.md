@@ -5,4 +5,4 @@ Welcome to the backalley of sloppybeans. Here lies the backend code for sloppy b
 - PocketBase
 - Go
 
-###### p.s. despite the word sloppy being a part of our brandname, we assure you we are the opposite of sloppy. More like a well organized racoon dumpster.
+###### p.s. despite the word sloppy being a part of our brandname, we assure you we are the opposite of sloppy. Imagine us like a well organized racoon dumpster.
